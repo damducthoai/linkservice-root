@@ -10,5 +10,12 @@
     <module>linkservice-common</module>
     <module>linkservice-plugin-fshare</module>
     <module>linkservice-web</module>
+    <module>linkservice-repository</module>
   </modules>
+  <properties>
+    <version.lombok>1.16.20</version.lombok>
+    <version.springboot>2.0.0.M7</version.springboot>
+    <version.hessian>4.0.51</version.hessian>
+    <version.jaxb.api>2.2.12</version.jaxb.api>
+  </properties>
 </project>

@@ -22,7 +22,10 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### child project ##
 linkservice-common/
 linkservice-frontend/
 linkservice-plugin-fshare/
 linkservice-web/
+linkservice-repository/
